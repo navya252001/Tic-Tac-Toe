@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 ## HTML File
 <ul>
-  <li>meta tag contains data(information) about the data</li>
+  <li><b>meta<b> tag contains data(information) about the data</li>
   <li>Classes:
     <ol>
       <li>setup-controls the welcome screen and requests user to select the player type and then start the game</li>
